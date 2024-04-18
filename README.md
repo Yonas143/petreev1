@@ -1,10 +1,10 @@
-# Flutter Plant App 🌿📱
+# Petree App 🌿📱
 
 <p align="center">
   <img src="https://your-plant-app-logo-url.com" alt="Plant App Logo" width="150">
 </p>
 
-<p align="center">A Flutter app for plant enthusiasts to explore, identify, and manage their plant collections.</p>
+<p align="center">Petree is a pioneering hybrid business that seamlessly integrates the convenience of an online shop with the tangible benefits of environmental sustainability. Specializing in plants, gardening tools, and agricultural products, Petree caters to both aesthetic and ecological needs. the app for plant enthusiasts to explore, identify, and manage their plant collections.</p>
 
 ## Features
 
