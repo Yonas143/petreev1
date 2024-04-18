@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:ui_13/page/home_page.dart';
 
+import 'page/splash_page.dart';
 import 'page/splash_page.dart';
 
 void main() {
@@ -13,14 +15,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Petree',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
         fontFamily: 'Gilroy',
       ),
       home: const SafeArea(
-        child: SplashPage(),
+        child: HomePage(),
       ),
     );
   }
